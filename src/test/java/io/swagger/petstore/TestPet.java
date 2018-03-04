@@ -116,4 +116,9 @@ public class TestPet {
         RestAssured.
         given().when().get("http://www.google.com").then().statusCode(200);
     }
+
+    @Test
+    public void TestGit(){
+        //GitHubTest From IDEA
+    }
 }
