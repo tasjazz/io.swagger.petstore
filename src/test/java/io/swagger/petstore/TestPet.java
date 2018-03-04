@@ -118,7 +118,7 @@ public class TestPet {
     }
 
     @Test
-    public void TestGit(){
+    public void TestGit2(){
         //GitHubTest From IDEA
     }
 }
